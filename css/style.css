@@ -1,0 +1,88 @@
+.top-container{
+    background-color: #c3a6a0;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.top-container .container-fluid{
+    background-color: #c3a6a0;
+    padding: 3% 10%;
+}
+.intro{
+    padding: 20% 15%;
+}
+
+.middle-container{
+    background-color: #f7f2ef;
+}
+
+.what{
+    padding-top: 2%;
+    text-align: center;
+}
+
+.row{
+    padding: 0 3%;
+}
+
+.develop{
+    text-align: center;
+    padding: 4%;
+}
+
+.h4{
+    font-size: 1.5rem;
+}
+
+.p{
+    color: #8f8f8f;
+}
+
+
+#skills{
+    margin-left: 200px;
+    padding: 7% 3%;
+}
+
+.about{
+    padding-top: 7%;
+}
+
+.pic{
+    margin-left: 50px;
+}
+
+.bottom-container{
+    background-color: #c3a6a0;
+    margin-top: 10%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.footer-link{
+    padding: 3%;
+}
+
+.gep{
+    padding-top: 50px;
+}
+
+.wip{
+    background-color: #c3a6a0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
